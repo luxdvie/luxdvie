@@ -15,7 +15,7 @@ UI Lead at [B&L Information Systems](http://www.blinfo.com/).
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://logodix.com/logo/773624.png" alt="Csharp Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" height="50"/> <img src="https://user-images.githubusercontent.com/7551403/114959909-00922d80-9e34-11eb-80ee-1e57b9b732ed.png" alt="SCSS Logo" width="50" height="50"/> 
 
 *Coding tools*\
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> 
 
 *What I do for fun*\
  <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi Logo" width="50" height="50"/>
