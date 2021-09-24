@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with experience across a wide range of technologies. Including typical web-based and desktop applications, I have published to the Chrome and Firefox extension stores, I have leveraged cross-platform tools to build mobile applications, and I have created software for embedded systems including microcontrollers such as Arduino and Raspberry Pi. 
 
-UI Lead at [B&L Information Systems](http://www.blinfo.com/).
+Senior Software Engineer at [DHI Group, Inc.](https://dhigroupinc.com/).
 
 # 🧰 Toolbox
 
