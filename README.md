@@ -1,6 +1,6 @@
 # Hey, I'm Austin                                                                                                                                                                                                                    
                                                                                                                                                                                                                                      
-Staff Software Engineer with 12+ years of experience building full-stack web applications, cloud-native backends, and the occasional robot.                                                                                          
+Principal Engineer with 12+ years of experience building full-stack web applications, cloud-native backends, and the occasional robot.                                                                                          
                                                                                                                                                                                                                                      
 Currently building with AI-native architectures, and documenting the journey at my site.
 
